@@ -1,0 +1,13 @@
+br\com\fatec\atletismo\bean\ClienteBean.class
+br\com\fatec\atletismo\bean\PaisBean.class
+br\com\fatec\atletismo\domain\Pais.class
+br\com\fatec\util\HibertnateContexto.class
+br\com\fatec\atletismo\domain\Prova.class
+br\com\fatec\util\HibernateUtilTest.class
+br\com\fatec\atletismo\domain\Atleta.class
+br\com\fatec\atletismo\dao\AtletaDAO.class
+br\com\fatec\atletismo\dao\ClienteDAOTest.class
+br\com\fatec\atletismo\dao\PaisDAO.class
+br\com\fatec\atletismo\HibernateUtil.class
+br\com\fatec\atletismo\domain\GenericDomain.class
+br\com\fatec\atletismo\dao\GenericDAO.class
