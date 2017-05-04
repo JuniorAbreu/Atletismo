@@ -19,6 +19,7 @@ this.classe=	(Class<Entidades>)((ParameterizedType) getClass().getGenericSupercl
 }
 
 	
+	
 	public void salvar(Entidades entidade){
 		
 		Connection con = JDBC.getInstance().getConnection();
